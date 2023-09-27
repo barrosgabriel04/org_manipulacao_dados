@@ -1,4 +1,4 @@
-/* Lógico_3: */
+/* LÃ³gico_3: */
 
 CREATE TABLE Ligacao (
     id_call integer PRIMARY KEY,
