@@ -1,4 +1,4 @@
-/* Lógico_1: */
+/* LÃ³gico_1: */
 
 CREATE TABLE apostas (
     id_aposta integer PRIMARY KEY,
