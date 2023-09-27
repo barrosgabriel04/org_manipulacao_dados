@@ -1,4 +1,4 @@
-/* Lógico_1: */
+/* LÃ³gico_1: */
 
 CREATE TABLE Aluguel (
     id_tema integer PRIMARY KEY,
