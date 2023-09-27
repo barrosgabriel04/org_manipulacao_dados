@@ -1,4 +1,4 @@
-/* Lógico_1: */
+/* LÃ³gico_1: */
 
 CREATE TABLE agendamento (
     id_agendamento integer PRIMARY KEY,
