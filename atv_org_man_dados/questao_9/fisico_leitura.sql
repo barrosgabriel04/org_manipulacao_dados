@@ -1,4 +1,4 @@
-/* Lógico_2: */
+/* LÃ³gico_2: */
 
 CREATE TABLE revista (
     id_revista integer PRIMARY KEY,
